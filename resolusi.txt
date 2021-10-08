@@ -5,3 +5,6 @@ TESTING
 4. [add nomor 4]
 
 5. LIMA
+
+
+6 dari fitur 2
